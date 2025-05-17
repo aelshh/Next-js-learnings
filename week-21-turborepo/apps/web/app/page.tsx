@@ -33,7 +33,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Don't get stucked <code>apps/web/app/page.tsx</code>
+            Don't get<code>apps/web/app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
